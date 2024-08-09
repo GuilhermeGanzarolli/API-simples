@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Guilherme",
+        "idade":23,
+        "genero":"masculino"
+    },
+    {
+        "name":"Rafaela",
+        "idade":23,
+        "genero":"feminino"
+    },
+    {
+        "name":"Silva",
+        "idade":23,
+        "genero":"masculino"
+    }
+]
